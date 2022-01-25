@@ -4,6 +4,7 @@
     font-size: 18px;
     color: rgb(165, 26, 72);
     text-align: center;
+    font-family: "Courier New", sans-serif;
 }
 
 #index-list{
@@ -40,6 +41,7 @@ ol{
     color: rgb(177, 46, 46);
     text-align: center;
     font-size: 15px;
+    
 }
 
 /*blueberrymuffins file*/
