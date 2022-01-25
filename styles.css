@@ -22,8 +22,13 @@ img {
     width: 400px;
 }
 
-/*all steps lists in /recipes*/
+/*lists in /recipes*/
 ol{
+    display: inline-block;
+    text-align: left;
+}
+
+.ingredients-list{
     display: inline-block;
     text-align: left;
 }
@@ -37,11 +42,6 @@ ol{
     font-size: 15px;
 }
 
-#crepes-list{
-   display: inline-block;
-   text-align: left;
-}
-
 /*blueberrymuffins file*/
 #blueberrymuffins-body{
     background-color: rgb(187, 155, 112);
@@ -50,20 +50,10 @@ ol{
     font-size: 15px;
 }
 
-#blueberrymuffins-list{
-    display: inline-block;
-    text-align: left;
-}
-
 /*bananabread file*/
 #bananabread-body{
     background-color: rgba(107, 78, 16, 0.734);
     color: rgb(255, 217, 66);
     text-align: center;
     font-size: 15px;
-}
-
-#bananabread-list{
-    display: inline-block;
-    text-align: left;
 }
