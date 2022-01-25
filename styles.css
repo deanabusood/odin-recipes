@@ -59,3 +59,9 @@ ol{
     text-align: center;
     font-size: 15px;
 }
+
+#crepes-body, 
+#blueberrymuffins-body, 
+#bananabread-body{
+    font-family: "Courier New", sans-serif;
+}
