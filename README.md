@@ -5,4 +5,4 @@ It consists of a main web page with 3 accessible dessert sections: "Crepes", "Bl
 
 Each section provides a link to a web page revealing their description, ingredients, and steps to recreate the recipe. 🧑‍🍳
 
-View here: https://deanabusood.github.io/odin-recipes/
+View here: https://deanabusood.github.io/recipes/
